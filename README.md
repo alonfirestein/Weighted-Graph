@@ -1,10 +1,10 @@
 # Object Oriented Programming - Ariel University
 #### Assignment: ex1
 #### Student: Alon Firestein
-
-![Weighted-Graph](https://user-images.githubusercontent.com/57404551/99579626-1c111d80-29e7-11eb-9010-ab71393daa63.png)
-
 \
+![Weighted-Graph](https://user-images.githubusercontent.com/57404551/99579626-1c111d80-29e7-11eb-9010-ab71393daa63.png)
+\
+
 
 For this assignment, I implemented a weighted graph using their respective interfaces that was provided to me and successfully tested them with tests that I built using JUnit 5.
 
@@ -27,12 +27,12 @@ This class was built in order to properly utilize a couple algorithms in the gra
 Some of these algorithms I built using the BFS algorithm method in order for traversing and searching throughout the graph, and others I used the Dijkstra algorthim which I also implemented, and using his algorithm I was able to find a weighted graphs shortest path between two nodes.
 
 **Here is an example of the dijkstra algorithm in progress:**
-\
-\
 
+
+\
 ![Dijkstra](https://www3.cs.stonybrook.edu/~skiena/combinatorica/animations/anim/dijkstra.gif)
 
-
+\
 
 
 ### Run time for functions: Worst case scenarios (Asymptotic Upper Bounds):
