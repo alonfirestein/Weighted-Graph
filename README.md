@@ -2,7 +2,7 @@
 #### Assignment: ex1
 #### Student: Alon Firestein
 
-![Weighted-Graph](/Users/alon/Desktop/kJF5K.png)
+<img src="/Users/alon/Desktop/kJF5K.png">
 
 For this assignment, I implemented a weighted graph using their respective interfaces that was provided to me and successfully tested them with tests that I built using JUnit 5.
 
