@@ -3,7 +3,7 @@
 #### Student: Alon Firestein
 \
 ![Weighted-Graph](https://user-images.githubusercontent.com/57404551/99579626-1c111d80-29e7-11eb-9010-ab71393daa63.png)
-\
+
 
 
 For this assignment, I implemented a weighted graph using their respective interfaces that was provided to me and successfully tested them with tests that I built using JUnit 5.
@@ -32,7 +32,8 @@ Some of these algorithms I built using the BFS algorithm method in order for tra
 \
 ![Dijkstra](https://www3.cs.stonybrook.edu/~skiena/combinatorica/animations/anim/dijkstra.gif)
 
-\
+
+
 
 
 ### Run time for functions: Worst case scenarios (Asymptotic Upper Bounds):
