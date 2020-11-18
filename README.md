@@ -2,7 +2,7 @@
 #### Assignment: ex1
 #### Student: Alon Firestein
 
-
+![Weighted-Graph](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmathematica.stackexchange.com%2Fquestions%2F89290%2Fhow-to-take-a-subgraph-of-an-edge-weighted-graph-and-preserve-weights&psig=AOvVaw1PrMMbXn9scz0qcdWOhWrY&ust=1605814250835000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiR_73qjO0CFQAAAAAdAAAAABAD)
 
 For this assignment, I implemented a weighted graph using their respective interfaces that was provided to me and successfully tested them with tests that I built using JUnit 5.
 
