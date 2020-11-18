@@ -2,6 +2,8 @@
 #### Assignment: ex1
 #### Student: Alon Firestein
 
+
+
 For this assignment, I implemented a weighted graph using their respective interfaces that was provided to me and successfully tested them with tests that I built using JUnit 5.
 
 ------------------------------------
@@ -24,6 +26,8 @@ Some of these algorithms I built using the BFS algorithm method in order for tra
 
 
 
+
+
 ### Run time for functions: Worst case scenarios (Asymptotic Upper Bounds):
 | Function Name    | Time Complexity           | Extra Info                                                   |
 | ---------------- | ------------------------- | ------------------------------------------------------------ |
@@ -38,7 +42,10 @@ V - vertices   ,     E - edges
 
 
 
+
 ------------------------------------
+
+
 
 
 
