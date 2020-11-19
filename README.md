@@ -39,14 +39,14 @@ The purpose of the Dijkstra Algorithm is to find the shortest path between two n
 
 
 ### Run time for functions: Worst case scenarios (Asymptotic Upper Bounds):
-| Function Name    | Time Complexity           | Extra Info                                                   |
-| ---------------- | ------------------------- | ------------------------------------------------------------ |
-| isConnected      | O(\|V\|+\|E\|)            | The function goes through every node in the graph to find out if it's connected. |
-| shortestPath     | O(\|V\|+\|E\|)            | The function goes through almost every node in the graph to find the shortest path. |
-| shortestPathDist | O(\|V\|+\|E\|)            | Using shortestPath to find the distance (# of edges it had to cross). |
-| dijkstra_algo    | O(\|V\|*log\|V\| + \|E\|) | Dijkstra algorithm built to find the shortest path between two nodes. |
-| save             | O(\|V\|+\|E\|)            | Saving a serializable map of the graph on to a file path.    |
-| load             | O(\|V\|+\|E\|)            | Loading a graph from a file path and building it from scratch. |
+| Function Name    | Time Complexity             | Extra Info                                                   |
+| -----------------| ----------------------------| ------------------------------------------------------------ |
+| isConnected      | O(\|V\|+\|E\|)              | The function goes through every node in the graph to find out if it's connected. |
+| shortestPath     | O(\|V\|*log\|V\| + \|E\|)   | The function goes through almost every node in the graph to find the shortest path. |
+| shortestPathDist | O(\|V\|*log\|V\| + \|E\|)   | Using shortestPath to find the distance (# of edges it had to cross). |
+| dijkstra_algo    | O(\|V\|*log\|V\| + \|E\|)   | Dijkstra algorithm built to find the shortest path between two nodes. |
+| save             | O(\|V\|+\|E\|)              | Saving a serializable map of the graph on to a file path.    |
+| load             | O(\|V\|+\|E\|)              | Loading a graph from a file path and building it from scratch. |
 
 V - vertices   ,     E - edges
 
