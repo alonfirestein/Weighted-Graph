@@ -2,7 +2,7 @@
 #### Assignment: ex1
 #### Student: Alon Firestein
 \
-![Weighted-Graph](https://user-images.githubusercontent.com/57404551/99579626-1c111d80-29e7-11eb-9010-ab71393daa63.png){:height="50%" width="50%"}
+![Weighted-Graph](https://user-images.githubusercontent.com/57404551/99579626-1c111d80-29e7-11eb-9010-ab71393daa63.png){:height="700px" width="400px"}
 
 
 
