@@ -2,7 +2,7 @@
 #### Assignment: ex1
 #### Student: Alon Firestein
 \
-![Weighted-Graph](https://user-images.githubusercontent.com/57404551/99579626-1c111d80-29e7-11eb-9010-ab71393daa63.png)
+![Weighted-Graph](https://user-images.githubusercontent.com/57404551/99579626-1c111d80-29e7-11eb-9010-ab71393daa63.png){:height="50%" width="50%"}
 
 
 
@@ -26,7 +26,9 @@ This class was built in order to properly utilize a couple algorithms in the gra
 
 Some of these algorithms I built using the BFS algorithm method in order for traversing and searching throughout the graph, and others I used the Dijkstra algorthim which I also implemented, and using his algorithm I was able to find a weighted graphs shortest path between two nodes.
 
-**Here is an example of the dijkstra algorithm in progress:**
+The purpose of the Dijkstra Algorithm is to find the shortest path between two nodes in a weighted graph, creating a tree of shortest paths from the starting vertex, the source, to all other points in the graph. Therefore using this algorithim, we can find the shortest path between two nodes while taking the weight of each edge in the graph into account.
+
+**Here is an example of the Dijkstra Algorithm in action:**
 
 
 \
