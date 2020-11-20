@@ -1,4 +1,6 @@
-package ex1;
+package ex1.tests;
+
+import ex1.src.*;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -35,7 +37,6 @@ public class WGraph_Algo_TESTER {
             TestGraph.addNode(node);
         }
         for (int edges = 0; edges < EdgeSize; edges++) {
-        //while (EdgeCounter < EdgeSize){
             NodeA = random.nextInt(NodeSize);
             NodeB = random.nextInt(NodeSize);
             while (NodeA == NodeB || EdgeList.contains(NodeA + "" + NodeB) || EdgeList.contains(NodeB + "" + NodeA)) {
